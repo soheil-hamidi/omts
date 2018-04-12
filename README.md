@@ -1,6 +1,6 @@
 # About OMTS
 
-This is a demo app for Online Movie Ticket Service (OMTS), which is an application for the advance purchase of movie tickets from any local theatre. Customers use the service to find out information about movies currently playing in their city and to order advance tickets for specific showings of the movies. Your task is to provide the database and related functionality for this application.
+This is a demo app for Online Movie Ticket Service (OMTS), which is an application for the advance purchase of movie tickets from any local theatre. Customers use the service to find out information about movies currently playing in their city and to order advance tickets for specific showings of the movies.
 
 # User’s guide
 
